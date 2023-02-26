@@ -1,10 +1,11 @@
 # Active BOINC projects - Find one to contribute to!
 
-It can be a bit confusing finding projects to crunch since there are so many. Some are defunct or have filled their purpose. Here's some that are reasonably active.
-If you plan on signing up for several projects or managing several machines, the BOINC Account Manager can make this much faster and quicker. It is a good idea to have a minimum of two projects in case one project runs out of work or is temporarily down. You can set your less preferred project to "0" weight/resource share so it will only be crunched if your primary project is out of work.
+It can be a bit confusing finding projects to crunch since there are so many. Some are defunct or have filled their purpose. Here's some that are reasonably active. This is a project of the [/r/BOINC4Science subreddit](http://reddit.com/r/BOINC4Science)
+
+If you plan on signing up for several projects or managing several machines, the [BOINC Account Manager](https://www.boincstats.com/bam/) can make this much faster and quicker. It is a good idea to have a minimum of two projects in case one project runs out of work or is temporarily down. You can set your less preferred project to "0" weight/resource share so it will only be crunched if your primary project is out of work.
 
 
-⚠️ I haven't thoroughly researched each project's options/history/etc so this is a work in progress. If you know of anything which should be added/removed/updated, please add it in the comments.
+⚠️ I haven't thoroughly researched each project's options/history/etc so this is a work in progress. If you know of anything which should be added/removed/updated, please create an issue on this repo, message /u/makeasnek on reddit, or submit a pull request. Please cite where you found the information ⚠️
 
 # Key:
 
@@ -78,6 +79,7 @@ Gerasim@home - research in discrete mathematics and logic control. Testing and c
 # 🧮 Other 🧮
 
 🎓Climateprediction.net - Predict climate patterns. Warning: huge workunits, may take a week to complete!
+
 iThena - Make a map of the internet! Sporadic work, some CPU-intensive while other network intensive. Measurements project is network intensive, computation project uses CPU.
 
 # 💻 Non-BOINC volunteer computing projects 💻
