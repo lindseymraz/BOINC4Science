@@ -93,7 +93,7 @@ iThena - Make a map of the internet! Sporadic work, some CPU-intensive while oth
 
 🎓💚❤️✒️ Folding@home - Protein folding/medical research.
 
-DreamLab - Medical research on Android phones
+📱 DreamLab - Medical research on Android phones
 
 # ⚠️ Don't Crunch/Dead Projects ⚠️
 
