@@ -23,6 +23,8 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 🎓 - Sponsored by major university or research institute.
 
+📱 - Supports Android
+
 # 🧬 Medicine/Biology 🧬
 
 💚🎓 GPUGrid - Full-atom molecular simulations of proteins. Requires GPU for computation.
@@ -51,11 +53,11 @@ Umbrella projects focus on several different areas of science
 
 🏆🎓💚🔓✒️ Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
 
-🔓🏆💚❤️✒️ Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
+🔓🏆💚❤️✒️📱 Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
 
 🔓🎓💚❤️✒️ Milkyway@home -  Creation of a 3D map of the Milky Way galaxy using data gathered by the  Sloan Digital Sky Survey. This project enables research in both astroinformatics and computer science.
 
-🎓🔓 Universe@home - Search for astronomical objects and phenomenon including black holes.
+🎓🔓📱 Universe@home - Search for astronomical objects and phenomenon including black holes.
 
 🎓Gaia@home - Infrequent work, research on comets and other space phenomenon.
 
