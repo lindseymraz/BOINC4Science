@@ -7,7 +7,9 @@ If you plan on signing up for several projects or managing several machines, the
 
 ⚠️ I haven't thoroughly researched each project's options/history/etc so this is a work in progress. If you know of anything which should be added/removed/updated, please create an issue on this repo, message /u/makeasnek on reddit, or submit a pull request. Please cite where you found the information ⚠️
 
-# Key:
+# Key: 
+
+Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste into searchbox)
 
 🔓 - Publishes data openly and regularly. Note many projects publish papers detailing the results of their work, this icon means that they regularly publish the source materials as well/the results of the computation in an open fashion.
 
@@ -15,19 +17,21 @@ If you plan on signing up for several projects or managing several machines, the
 
 ❤️ - Support AMD GPU (all projects should be assumed to support CPU unless otherwise stated)
 
-✒️ - Cites BOINC and BOINC volunteers in their scientific papers or other publications (such as a database of astronomical objects citing the BOINC user who found it)
+✒️ - Cites BOINC in their scientific papers or other publications (such as a database of astronomical objects citing the BOINC user who found it)
+
+🏆 - Credits individual crunchers for discoveries, such as finding a new black hole or prime number
 
 🎓 - Sponsored by major university or research institute.
 
 # 🧬 Medicine/Biology 🧬
 
-💚❤️ GPUGrid - Full-atom molecular simulations of proteins. Requires GPU for computation.
+💚🎓 GPUGrid - Full-atom molecular simulations of proteins. Requires GPU for computation.
 
 ️🔓✒️ SiDock@home Works on drug discovery with COVID-19 as its primary focus, developing open-source COVID-19 drugs.
 
 🎓🔓Denis@home - Work on modeling to help solve heart disease!
 
-🎓TN-Grid - The gene@home project is an implementation of the PC-IM algorithm, whose purpose is to expand Gene Regulatory Networks (GRN). Each network is a  graph that specifies the causal relationships inside this set of genes,  and helps in studying the gene expression phenomenon: the process  through which the DNA is transcribed into RNA and the RNA translated into proteins.
+🎓✒️TN-Grid - The gene@home project is an implementation of the PC-IM algorithm, whose purpose is to expand Gene Regulatory Networks (GRN). Each network is a  graph that specifies the causal relationships inside this set of genes,  and helps in studying the gene expression phenomenon: the process  through which the DNA is transcribed into RNA and the RNA translated into proteins.
 
 🎓 Rosetta@home - Protein structure prediction that may ultimately lead to finding cures for some major human diseases. (often low on work). Warning: workunits require a lot of memory, many require virtualbox.
 
@@ -37,7 +41,7 @@ Umbrella projects focus on several different areas of science
 
 💚🎓 World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of Krembil institute
 
-Yoyo@home - Brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology. Mostly math but some biology as well.
+🔓✒️Yoyo@home - Brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology. Mostly math but some biology as well.
 
 # ⚛️ Physics ⚛️
 
@@ -45,11 +49,11 @@ Yoyo@home - Brings existing distributed computing projects to the BOINC world us
 
 # 🔭 Space 🔭
 
-🎓💚🔓 Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
+🏆🎓💚🔓✒️ Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
 
-🔓✒️ Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
+🔓🏆💚❤️✒️ Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
 
-🎓💚❤️✒️ Milkyway@home -  Creation of a 3D map of the Milky Way galaxy using data gathered by the  Sloan Digital Sky Survey. This project enables research in both astroinformatics and computer science.
+🔓🎓💚❤️✒️ Milkyway@home -  Creation of a 3D map of the Milky Way galaxy using data gathered by the  Sloan Digital Sky Survey. This project enables research in both astroinformatics and computer science.
 
 🎓🔓 Universe@home - Search for astronomical objects and phenomenon including black holes.
 
@@ -57,15 +61,15 @@ Yoyo@home - Brings existing distributed computing projects to the BOINC world us
 
 # 🔣 Math 🔣
 
-💚🔓 Amicable Numbers  Independent research project that uses  Internet-connected computers to find new amicable pairs. Currently searching the 10^20 range.
+🏆💚❤️✒️🔓 Amicable Numbers  Independent research project that uses  Internet-connected computers to find new amicable pairs. Currently searching the 10^20 range.
 
 🎓🔓 NFS@Home - Lattice sieving step in Number Field Sieve factorization of large  integers. Many public key algorithms, including the RSA algorithm, rely  on the fact that the publicly available modulus cannot be factored. If  it is factored, the private key can be easily calculated.
 
-🎓🔓 Numberfields@home - Research in number theory. Number theorists can mine the data for  interesting patterns to help them formulate conjectures about number  fields.
+🏆🎓💚❤️🔓 Numberfields@home - Research in number theory. Number theorists can mine the data for  interesting patterns to help them formulate conjectures about number  fields.
 
 🔓 ODLK1 - Building a database of canonical forms of diagonal Latin squares of the 10th order
 
-🔓 SRBase - Attempting to solve Sierpinski / Riesel Bases up to 1030.
+🔓💚❤️ SRBase - Attempting to solve Sierpinski / Riesel Bases up to 1030.
 
 🔓PrimeGrid - Find new prime numbers!
 Gerasim@home - research in discrete mathematics and logic control. Testing and comparison of heuristic methods for getting separations of  parallel algorithms working in the CAD system for designing logic control systems
@@ -84,7 +88,7 @@ iThena - Make a map of the internet! Sporadic work, some CPU-intensive while oth
 
 # 💻 Non-BOINC volunteer computing projects 💻
 
-🎓✒️ Folding@home - Protein folding/medical research.
+🎓💚❤️✒️ Folding@home - Protein folding/medical research.
 
 DreamLab - Medical research on Android phones
 
