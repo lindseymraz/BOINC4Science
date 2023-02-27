@@ -17,7 +17,7 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 ❤️ - Support AMD GPU (all projects should be assumed to support CPU unless otherwise stated)
 
-✒️ - Cites BOINC in their scientific papers or other publications (such as a database of astronomical objects citing the BOINC user who found it)
+✒️ - Credits BOINC in their scientific papers or other publications
 
 🏆 - Credits individual crunchers for discoveries, such as finding a new black hole or prime number
 
