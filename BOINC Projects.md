@@ -36,7 +36,7 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 🎓✒️TN-Grid - The gene@home project is an implementation of the PC-IM algorithm, whose purpose is to expand Gene Regulatory Networks (GRN). Each network is a  graph that specifies the causal relationships inside this set of genes,  and helps in studying the gene expression phenomenon: the process  through which the DNA is transcribed into RNA and the RNA translated into proteins.
 
-🎓 Rosetta@home - Protein structure prediction that may ultimately lead to finding cures for some major human diseases. (often low on work). Warning: workunits require a lot of memory, many require virtualbox.
+🎓📱 Rosetta@home - Protein structure prediction that may ultimately lead to finding cures for some major human diseases. (often low on work). Warning: workunits require a lot of memory, many require virtualbox.
 
 # ☂️ Umbrella Projects ☂️
 
