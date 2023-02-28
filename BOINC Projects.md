@@ -13,6 +13,7 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 🔓 - Publishes data openly and regularly. Note many projects publish papers detailing the results of their work, this icon means that they regularly publish the source materials as well/the results of the computation in an open fashion.
 
+
 Hardware Support:
 
 💚 - Supports NVIDIA GPU/graphics card  (all projects should be assumed to support CPU unless otherwise stated)
@@ -20,6 +21,7 @@ Hardware Support:
 ❤️ - Support AMD GPU (all projects should be assumed to support CPU unless otherwise stated)
 
 📱 - Supports Android
+
 
 OS Support:
 
