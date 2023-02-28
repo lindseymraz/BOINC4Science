@@ -13,6 +13,11 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 🔓 - Publishes data openly and regularly. Note many projects publish papers detailing the results of their work, this icon means that they regularly publish the source materials as well/the results of the computation in an open fashion.
 
+✒️ - Credits BOINC in their scientific papers or other publications
+
+🏆 - Credits individual crunchers for discoveries, such as finding a new black hole or prime number
+
+🎓 - Sponsored by major university or research institute.
 
 #### Hardware Support:
 
@@ -25,17 +30,11 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 #### OS Support:
 
-✖️ - Supports OS X (all projects should be assumed to support Windows unless otherwise stated)
+✖️ - Supports OS X (all projects should be assumed to support Windows & Linux unless otherwise stated)
 
 🥧 - Supports ARM on Linux (ie Raspberry Pi)
 
 📦 - Supports Virtualbox (can run on all platforms)
-
-✒️ - Credits BOINC in their scientific papers or other publications
-
-🏆 - Credits individual crunchers for discoveries, such as finding a new black hole or prime number
-
-🎓 - Sponsored by major university or research institute.
 
 
 # 🧬 Medicine/Biology 🧬
