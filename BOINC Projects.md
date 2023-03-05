@@ -19,7 +19,7 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 🎓 - Sponsored by major university or research institute.
 
-#### Hardware Support:
+#### Hardware Support: (don't have a graphics card or gaming machine? Don't know what a GPU is? Ignore this section!)
 
 💚 - Supports NVIDIA GPU/graphics card  (all projects should be assumed to support CPU unless otherwise stated)
 
