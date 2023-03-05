@@ -47,7 +47,7 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 Umbrella projects focus on several different areas of science
 
-💚🎓✖️ World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of Krembil institute
+💚🎓✖️ World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of Krembil institute. By far the largest and longest-running BOINC project.
 
 🔓✒️✖️Yoyo@home - Brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology. Mostly math but some biology as well.
 
