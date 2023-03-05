@@ -25,8 +25,6 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 ❤️ - Support AMD GPU (all projects should be assumed to support CPU unless otherwise stated)
 
-📱 - Supports Android
-
 
 #### OS Support:
 
@@ -43,29 +41,29 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 🎓✒️TN-Grid - The gene@home project is an implementation of the PC-IM algorithm, whose purpose is to expand Gene Regulatory Networks (GRN). Each network is a  graph that specifies the causal relationships inside this set of genes,  and helps in studying the gene expression phenomenon: the process  through which the DNA is transcribed into RNA and the RNA translated into proteins.
 
-🎓📱✖️ Rosetta@home - Protein structure prediction that may ultimately lead to finding cures for some major human diseases. (often low on work). Warning: workunits require a lot of memory, many require virtualbox.
+🎓✖️ Rosetta@home - Protein structure prediction that may ultimately lead to finding cures for some major human diseases. (often low on work). Warning: workunits require a lot of memory, many require virtualbox.
 
 # ☂️ Umbrella Projects ☂️
 
 Umbrella projects focus on several different areas of science
 
-💚🎓✖️📱 World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of Krembil institute
+💚🎓✖️ World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of Krembil institute
 
-🔓✒️✖️📱Yoyo@home - Brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology. Mostly math but some biology as well.
+🔓✒️✖️Yoyo@home - Brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology. Mostly math but some biology as well.
 
 # ⚛️ Physics ⚛️
 
-🎓📱✖️ LHC@home - Process data from the large hadron collider/CERN.
+🎓✖️ LHC@home - Process data from the large hadron collider/CERN.
 
 # 🔭 Space 🔭
 
-🏆🎓💚✖️🔓📱✒️ Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
+🏆🎓💚✖️🔓✒️ Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
 
-🔓🏆💚❤️✒️📱✖️ Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
+🔓🏆💚❤️✒️✖️ Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
 
 🔓🎓💚❤️✖️✒️ Milkyway@home -  Creation of a 3D map of the Milky Way galaxy using data gathered by the  Sloan Digital Sky Survey. This project enables research in both astroinformatics and computer science.
 
-🎓🔓📱 Universe@home - Search for astronomical objects and phenomenon including black holes.
+🎓🔓 Universe@home - Search for astronomical objects and phenomenon including black holes.
 
 🎓Gaia@home - Infrequent work, research on comets and other space phenomenon.
 
@@ -101,7 +99,7 @@ iThena - Make a map of the internet! Sporadic work, some CPU-intensive while oth
 
 🎓💚❤️✒️ Folding@home - Protein folding/medical research.
 
-📱 DreamLab - Medical research on Android phones
+DreamLab - Medical research on Android phones
 
 # ⚠️ Don't Crunch/Dead Projects ⚠️
 
