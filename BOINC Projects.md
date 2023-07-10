@@ -1,6 +1,6 @@
 # Active BOINC projects - Find one to contribute to!
 
-It can be a bit confusing finding projects to crunch since there are so many. Some are defunct or have filled their purpose. Here's some that are reasonably active. This is a project of the [/r/BOINC4Science subreddit](http://reddit.com/r/BOINC4Science). Another good list to check is [https://boinc.berkeley.edu/projects.php](https://boinc.berkeley.edu/projects.php) which is a little more comprehensive in terms of hardware/software combinations.
+It can be a bit confusing finding projects to crunch since there are so many. Some are defunct or have filled their purpose. Here's some that are reasonably active. This is a project of the [/r/BOINC4Science subreddit](http://reddit.com/r/BOINC4Science) and [Lemmy communnity](https://sopuli.xyz/c/boinc). Another good list to check is [https://boinc.berkeley.edu/projects.php](https://boinc.berkeley.edu/projects.php) which is a little more comprehensive in terms of hardware/software combinations.
 
 If you plan on signing up for several projects or managing several machines, the [BOINC Account Manager](https://www.boincstats.com/bam/) can make this much faster and quicker. It is a good idea to have a minimum of two projects in case one project runs out of work or is temporarily down. You can set your less preferred project to "0" weight/resource share so it will only be crunched if your primary project is out of work.
 
