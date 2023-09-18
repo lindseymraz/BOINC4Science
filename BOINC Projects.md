@@ -57,7 +57,7 @@ Umbrella projects focus on several different areas of science
 
 # 🔭 Space 🔭
 
-🏆🎓💚✖️🔓✒️ Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
+🏆🎓💚❤️✖️🔓✒️ Asteroids@home - Asteroid research - it uses photometric measurements of asteroids observed by professional big all-sky surveys as well as 'backyard'  astronomers. The data is processed using the lightcurve inversion method and a 3D shape model of an asteroid together with the rotation period  and the direction of the spin axis are derived. Publishes a database of all findings
 
 🔓🏆💚❤️✒️✖️ Einstein@home - Search for spinning neutron (pulsars) stars using data from the LIGO  gravitational-wave detectors, the Arecibo radio telescope, and the Fermi  gamma-ray satellite. All results published in an open database and credited to users.
 
