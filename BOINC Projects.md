@@ -1,17 +1,17 @@
 # Active BOINC projects - Find one to contribute to!
 
-It can be a bit confusing finding projects to crunch since there are so many. Some are defunct or have filled their purpose. Here's some that are reasonably active. This is a project of the [/r/BOINC4Science subreddit](http://reddit.com/r/BOINC4Science) and [Lemmy communnity](https://sopuli.xyz/c/boinc). Another good list to check is [https://boinc.berkeley.edu/projects.php](https://boinc.berkeley.edu/projects.php) which is a little more comprehensive in terms of hardware/software combinations.
+It can be a bit confusing finding projects to crunch since there are so many. Some are defunct or have filled their purpose. Here's some that are reasonably active. This is a project of the [/r/BOINC4Science subreddit](http://reddit.com/r/BOINC4Science) and [Lemmy community](https://sopuli.xyz/c/boinc). Another good list to check is [https://boinc.berkeley.edu/projects.php](https://boinc.berkeley.edu/projects.php) which is a little more comprehensive in terms of hardware/software combinations.
 
 If you plan on signing up for several projects or managing several machines, the [BOINC Account Manager](https://www.boincstats.com/bam/) can make this much faster and quicker. It is a good idea to have a minimum of two projects in case one project runs out of work or is temporarily down. You can set your less preferred project to "0" weight/resource share so it will only be crunched if your primary project is out of work.
 
 
-⚠️ I haven't thoroughly researched each project's options/history/etc so this is a work in progress. If you know of anything which should be added/removed/updated, please create an issue on this repo, message /u/makeasnek on reddit, or submit a pull request. Please cite where you found the information ⚠️
+⚠️ I haven't thoroughly researched each project's options/history/etc. so this is a work in progress. If you know of anything which should be added/removed/updated, please create an issue on this repo, message /u/makeasnek on Reddit, or submit a pull request. Please cite where you found the information. ⚠️
 
 # Key: 
 
-Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste into searchbox)
+Tip: Highlight emoji, Ctrl + C to copy, Ctrl + F to search (Ctrl + V to paste into searchbox)
 
-🔓 - Publishes data openly and regularly. Note many projects publish papers detailing the results of their work, this icon means that they regularly publish the source materials as well/the results of the computation in an open fashion.
+🔓 - Publishes data openly and regularly. Note many projects publish papers detailing the results of their work. This icon means that they regularly publish the source materials as well/the results of the computation in an open fashion.
 
 ✒️ - Credits BOINC in their scientific papers or other publications
 
@@ -47,13 +47,13 @@ Tip: Highlight emoji, ctrl + c to copy, ctrl + f to search (ctrl + v to paste in
 
 Umbrella projects focus on several different areas of science
 
-💚🎓✖️ World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of Krembil institute. By far the largest and longest-running BOINC project.
+💚🎓✖️ World Community Grid - Mostly focused on medical research, projects have included research on AIDS, Zika, COVID, and rainfall patterns. Run out of the Krembil Research Institute. By far the largest and longest-running BOINC project.
 
 🔓✒️✖️Yoyo@home - Brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology. Mostly math but some biology as well.
 
 # ⚛️ Physics ⚛️
 
-🎓✖️ LHC@home - Process data from the large hadron collider/CERN.
+🎓✖️ LHC@home - Process data from the Large Hadron Collider/CERN.
 
 # 🔭 Space 🔭
 
